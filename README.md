@@ -6,16 +6,5 @@ Relive the favourite memory of our childhood with the Simon Game made by basic J
 .
 .
 .
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
 
 (Project of Angela's Web Dev Course)
